@@ -1,0 +1,21 @@
+# .gitignore
+
+# Node modules
+node_modules/
+
+# Env files
+.env
+
+# Logs
+logs
+*.log
+
+# Optional npm debug file
+npm-debug.log*
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
