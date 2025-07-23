@@ -1,5 +1,6 @@
 const { Client, Intents, IntentsBitField } = require("discord.js");
 const weather = require("weather-js");
+require("dotenv").config();
 
 const Discord_token = process.env.DISCORD_TOKEN;
 
